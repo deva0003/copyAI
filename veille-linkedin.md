@@ -6,7 +6,7 @@
 
 ---
 
-## PARTIE 1 : Analyse des 6 comptes LinkedIn
+## PARTIE 1 : Analyse des 7 comptes LinkedIn
 
 ---
 
@@ -130,20 +130,43 @@
 
 ---
 
+### 7. PETER QUADREL (@peter-quadrel)
+
+**Profil** : Founder @Odylic Media - Premium & Luxury Brand Growth - $50M+ en ad spend gere - Scale at the Intersection of Finance & Psychology
+
+| # | Hook | Format | Sujet principal | Pourquoi ca fonctionne |
+|---|-------|--------|----------------|----------------------|
+| 1 | "The Biggest Meta Advertising Mistake in 2026: Brands still optimizing for individual ad performance instead of journey performance." | Controverse / Mecanisme | Sequential Learning de Meta - optimiser le parcours, pas l'ad isolee | Remet en question la pratique quotidienne de chaque media buyer avec une prediction datee |
+| 2 | "Most Brands Are Still Running Meta Ads Like It's 2024." | Controverse / Mecanisme | Algorithme GEM de Meta - la diversite creative bat la structure de campagne | Declaration d'obsolescence qui oblige le lecteur a se remettre en question |
+| 3 | "There's No Such Thing as an 'Organic Feed' or 'Paid Feed' on Meta... It's just 1 feed." | Controverse | Convergence organique/paid - une seule strategie de contenu, deux canaux de distribution | Detruit une croyance organisationnelle profonde (equipes silotees organic vs paid) |
+| 4 | "How I Generated a 60+ Page Creative Strategy Report in 9 Minutes" | Mecanisme / Tutorial | Prompt ChatGPT de 7 pages pour automatiser l'analyse creative et psychologique | Promesse de gain de temps extreme (9min vs 9h) + lead magnet gratuit |
+| 5 | "The New Meta Account Structure as of July 2025" | Liste / Framework | White paper 30 pages sur la structure de compte Meta optimale | Autorite par le volume ($50M+) + contenu premium offert gratuitement |
+| 6 | "AI-generated video ads are going to dominate ad spend in..." | Controverse / Tendance | Prediction sur la domination des creatives video generees par IA | Vision d'avenir polarisante qui positionne comme visionnaire |
+| 7 | "Marketers have been lying to YOU for over 2 years..." | Controverse | Mensonges du marche sur les metriques et la performance reelle | Accusation directe ("lying to YOU") qui cree une urgence emotionnelle |
+| 8 | "How many impressions does Meta need on an ad to know if it's scalable or a..." | Mecanisme / Education | Statistiques et taille d'echantillon necessaires pour valider une creative | Question technique precise que tout media buyer se pose sans oser demander |
+| 9 | "If your DTC brand's gross margin is under 65%, don't run ads." | Controverse / Mecanisme | Seuil de marge minimum pour la rentabilite publicitaire - le calcul que personne ne fait | Regle chiffree tranchante qui filtre et qualifie immediatement l'audience |
+| 10 | "2X Your Creative Strategy Efficiency (With this NEW AI Tool)" | Mecanisme / Tutorial | Outil IA pour doubler l'efficacite de sa strategie creative | Promesse de productivite x2 + nouveaute ("NEW") = curiosite maximale |
+
+**Mecanismes cles** : White papers et lead magnets gratuits en echange d'engagement, predictions datees et audacieuses, vocabulaire de rupture ("lying", "mistake", "dead"), intersection finance/psychologie comme angle unique, autorite massive ($50M+)
+
+---
+
 ## PARTIE 2 : Synthese des mecanismes qui fonctionnent
 
 ### Les 8 patterns identifies
 
 | Pattern | Description | Utilise par | Frequence |
 |---------|-------------|-------------|-----------|
-| **Controverse / Prise de position** | Attaquer une croyance etablie du marche | Tous les 6 | Tres frequent |
+| **Controverse / Prise de position** | Attaquer une croyance etablie du marche | Les 7 | Tres frequent |
 | **Case study chiffre (avant/apres)** | Resultat client avec metriques concretes | Olly, Alex, Etienne | Frequent |
 | **Build in public** | Partager ses chiffres d'entreprise en transparence | Etienne, Elio, Olly | Frequent |
-| **Framework / Mecanisme nomme** | Creer et nommer une methodologie propriataire | Olly, Alex, Aymeric | Frequent |
+| **Framework / Mecanisme nomme** | Creer et nommer une methodologie propriataire | Olly, Alex, Aymeric, Peter | Frequent |
 | **Liste actionnable** | X conseils / X erreurs / X etapes | Tous | Tres frequent |
 | **Storytelling personnel** | Parcours, echecs, lecons apprises | Alex, Olly, Elio | Modere |
 | **Demystification** | Simplifier un sujet percu comme complexe | Etienne, Aymeric | Modere |
 | **Curation / Actualite** | Digest hebdo des news du secteur | Nazarii | Modere |
+| **Lead magnet / White paper** | Offrir du contenu premium gratuit en echange d'engagement | Peter | Modere (mais haut engagement) |
+| **Prediction datee** | Annoncer ce qui va changer en [annee] | Peter, Alex | Modere |
 
 ### Les formules de hooks les plus efficaces
 
@@ -346,4 +369,4 @@ Chaque idee est calibree pour ton positionnement (Consultant Paid SEA/SMA, coach
 
 ---
 
-*Document genere le 2026-02-08 | Systeme de veille LinkedIn pour consultant Paid SEA/SMA*
+*Document mis a jour le 2026-02-16 | Systeme de veille LinkedIn pour consultant Paid SEA/SMA | 7 comptes analyses*
